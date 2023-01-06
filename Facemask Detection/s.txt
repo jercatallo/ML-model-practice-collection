@@ -1,0 +1,6 @@
+700 to 300 - safe, error still occuring
+299 to 200 - safe, error not occuring
+299 to 250 - safe, error still occuring
+249 to 200 - safe, error not occuring
+
+803 dataests
