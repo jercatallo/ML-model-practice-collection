@@ -1,0 +1,14 @@
+This c1,c2 is called convolutional neural network
+
+Convolution is called on what CNN does
+
+Boxes is called spread1
+
+
+
+multiple feature maps -> rectifier
+
+
+feature map -> max pooling -> pooled feature map -> flattening
+
+input(flatten layers) -> hidden layer -> output
